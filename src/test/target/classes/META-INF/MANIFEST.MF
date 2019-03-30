@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 11.0.1
+Implementation-Title: phone
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.phone
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/phone
+Created-By: Maven Integration for Eclipse
+
